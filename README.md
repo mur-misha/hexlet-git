@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you?
+new commands - git clean -f force -d directory
